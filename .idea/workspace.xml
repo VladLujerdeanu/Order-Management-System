@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Order_Management:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65213696-bd0f-4ee6-a4e4-c9d3bef889c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/artifacts/Order_Management_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/Order Management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/business/ClientLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/business/OrderItemsLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/business/OrderLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/business/ProductLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/database/dbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/database/query/dbAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/database/query/dbClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/database/query/dbOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/database/query/dbOrderItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/database/query/dbProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/model/OrderItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/model/Ordert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/presentation/OutOfStockReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/presentation/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/presentation/ReportClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/presentation/ReportOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order Management/src/main/java/presentation/ReportProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Order_Management_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order_Management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/business/ClientLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/business/OrderItemsLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/business/OrderLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/business/ProductLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/dbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/query/dbAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/query/dbClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/query/dbOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/query/dbOrderItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/query/dbProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mainclass/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/OrderItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Ordert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/presentation/OutOfStockReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/presentation/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/presentation/ReportClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/presentation/ReportOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/presentation/ReportProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue_Simulation/Queue_Simulation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Polynomial Calculator Documentation.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Polynomial Calculator Documentation.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bHTAjhCeBgEbcOXBBL8l7H9K0e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainclass.MainClass" />
+      <module name="Order_Management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mainclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainclass.MainClass" />
+      <module name="Order_Management" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="assembly:single" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.MainClass" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65213696-bd0f-4ee6-a4e4-c9d3bef889c4" name="Default Changelist" comment="" />
+      <created>1588287877230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588287877230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588289885617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588289885617" />
+    <state x="690" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588290180908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588290180908" />
+    <state x="707" y="229" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588302178119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="229" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588302178119" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588301921408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588301921408" />
+    <state width="914" height="198" key="GridCell.Tab.0.bottom" timestamp="1588307913596">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588307913596" />
+    <state width="1877" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588302178144" />
+    <state width="914" height="198" key="GridCell.Tab.0.center" timestamp="1588307913596">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="198" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588307913596" />
+    <state width="1877" height="198" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588302178144" />
+    <state width="914" height="198" key="GridCell.Tab.0.left" timestamp="1588307913596">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="198" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588307913596" />
+    <state width="1877" height="198" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588302178144" />
+    <state width="914" height="198" key="GridCell.Tab.0.right" timestamp="1588307913596">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="198" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588307913596" />
+    <state width="1877" height="198" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588302178144" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1588301767804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588301767804" />
+  </component>
+</project>

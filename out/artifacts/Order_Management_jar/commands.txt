@@ -1,0 +1,21 @@
+Insert client: Ion Popescu, Bucuresti
+Insert client: Luca George, Bucuresti
+Report client
+Insert client: Sandu Vasile, Cluj-Napoca
+Report client
+Delete client: Ion Popescu, Bucuresti
+Report client
+Insert product: apple, 20, 1
+Insert product: peach, 50, 2
+Insert product: apple, 20, 1
+Report product
+Delete Product: peach
+Insert product: orange, 40, 1.5
+Insert product: lemon, 70, 2
+Report product
+Order: Luca George, apple, 5
+Order: Luca George, lemon, 5
+Order: Sandu Vasile, apple, 100
+Report client
+Report order
+Report product
